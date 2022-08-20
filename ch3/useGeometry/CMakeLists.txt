@@ -1,0 +1,6 @@
+PROJECT(Geometry)
+
+FIND_PACKAGE(Eigen3)
+
+INCLUDE_DIRECTORIES(${Eigen3_INCLUDE_DIR})
+ADD_EXECUTABLE(useGeometry useGeometry.cpp)

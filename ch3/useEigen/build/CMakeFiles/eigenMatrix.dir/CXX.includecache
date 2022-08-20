@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xtark/V-SLAM code/ch3/useEigen/eigenMatrix.cpp
+iostream
+-
+Eigen/Core
+-
+Eigen/Dense
+-
+

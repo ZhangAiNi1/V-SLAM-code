@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xtark/V-SLAM code/ch3/useGeometry/useGeometry.cpp
+iostream
+-
+cmath
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+
