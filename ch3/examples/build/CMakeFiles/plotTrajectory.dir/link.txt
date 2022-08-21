@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/plotTrajectory.dir/plotTrajectory.o  -o plotTrajectory  -L/usr/local/lib -Wl,-rpath,/usr/local/lib /usr/local/lib/libpangolin.so -lrt -lpthread -lGL -lGLU -lGLEW -lSM -lICE -lX11 -lXext -lpython3.6m -ldc1394 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lOpenNI2 -lpng -lz -ljpeg -ltiff -lIlmImf 
