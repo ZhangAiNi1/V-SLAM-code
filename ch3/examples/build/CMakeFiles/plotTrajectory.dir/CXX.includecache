@@ -11,6 +11,8 @@ pangolin/pangolin.h
 -
 Eigen/Geometry
 -
+unistd.h
+-
 
 /usr/local/include/eigen3/Eigen/Cholesky
 Core
