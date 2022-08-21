@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/useGeometry.dir/useGeometry.o  -o useGeometry 

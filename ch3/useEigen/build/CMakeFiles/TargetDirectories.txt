@@ -1,3 +1,0 @@
-/home/xtark/V-SLAM code/ch3/useEigen/build/CMakeFiles/rebuild_cache.dir
-/home/xtark/V-SLAM code/ch3/useEigen/build/CMakeFiles/eigenMatrix.dir
-/home/xtark/V-SLAM code/ch3/useEigen/build/CMakeFiles/edit_cache.dir

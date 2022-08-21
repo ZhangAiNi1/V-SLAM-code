@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/eigenMatrix.dir/eigenMatrix.o  -o eigenMatrix 
